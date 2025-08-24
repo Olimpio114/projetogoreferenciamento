@@ -19,7 +19,7 @@ Este projeto em Python é um script para georreferenciar endereços a partir de 
 4.  **Execute o script:**
     No terminal, a partir da pasta raiz do projeto, execute o script principal:
     ```bash
-    python src/main.py
+    python main.py     **dentro da raiz
     ```
     O arquivo de saída `enderecos_geocodificados_cascata.xlsx` será salvo na pasta `data/output/`.
 5.  **Ambiente virtual:**
